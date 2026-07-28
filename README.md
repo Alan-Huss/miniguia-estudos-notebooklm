@@ -6,6 +6,10 @@ O presente Caderno Temático tem como foco a análise do Projeto de Extensão **
 
 A justificativa pedagógica do estudo apoia-se na necessidade de compreender como a integração entre ensino, pesquisa e extensão pode ser viabilizada em cursos de licenciatura a distância, garantindo a formação cidadã e profissional do futuro educador musical. A iniciativa fundamenta-se no princípio freireano da educação como prática da liberdade e na "ecologia de saberes", promovendo a democratização do acesso ao conhecimento musical por meio do uso de Tecnologias da Informação e Comunicação (TICs).
 
+### 🔗 Notebook de referência
+
+- Link do notebook utilizado para gerar esta tarefa: [Notebook Google Colab/NotebookLM](https://notebook.google.com/notebook/1dac9308-9f53-4d0c-85b8-60906013ed2b)
+
 No contexto do Desafio de Projeto da plataforma DIO (Digital Innovation One), os objetivos deste estudo são:
 
 - Mapear o processo de implementação da Curricularização da Extensão em um curso superior EaD;
